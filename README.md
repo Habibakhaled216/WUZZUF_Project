@@ -4,8 +4,8 @@ An automated Python-based web scraping project designed to extract job listing d
 -----------------------------------------------------
 📌 **Extracted Data Fields** 
 
-For each job required
-the scraper searches for the job and click on the search button to get posts of job-offers
+For each job required:
+the scraper searches for the job and click on the search button to get posts of job-offers.
 
 the scraper extracts the following attributes:
 * Job Title 
@@ -29,7 +29,7 @@ the scraper extracts the following attributes:
 * It searches for the following jobs: ['Data Engineer', 'Data Scientist','AI Developer', 'Machine Learning Engineer']
 * HTML Parsing: HTML elements containing job cards are parsed using CSS Selectors / Class Name / XPATH / Name.
 * Data Extraction: Extracts specific details (Title, Company, Location, Experience, Description and URL) from each job card or individual detail page and saves them as a text.
-* Data Export: Saves the gathered dataset into a CSV file format for further use
+* Data Export: Saves the gathered dataset into a CSV file format for further use.
 --------------------------------------------------------------------------------
-**The collected data contains more than one job**
+**The collected data contains more than one job.**
 
