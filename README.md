@@ -1,7 +1,7 @@
 **WUZZUF Job Scraping** 📊
 
 An automated Python-based web scraping project designed to extract job listing data from Wuzzuf. Where it searches for multiple jobs and gets the required information. This scraper targets the first 3 pages of search/category results (can be modified for # number of pages) and gathers essential job information into a structured format for data analysis or storage.
------------------------------------------------------
+
 📌 **Extracted Data Fields** 
 
 For each job required:
